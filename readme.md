@@ -1,9 +1,8 @@
-Tutorial of how to author a library using [webpack](https://github.com/webpack/webpack).
+This is a fork of https://github.com/kalcifer/webpack-library-example
 
 ### Outline
 
-This library exposes functionality to transalte numbers to words.
-It is trivial code but the aim is to bundle it using webpack.
+The setup demonstrates how a library can be used inside an es6 app.
 
 ### Features
 
