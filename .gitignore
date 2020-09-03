@@ -1,2 +1,13 @@
 node_modules
 .idea/
+
+# compiled output
+/dist
+/app/js/webpackNumbers.js
+
+# System Files
+.DS_Store
+Thumbs.db
+
+
+
